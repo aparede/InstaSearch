@@ -5,7 +5,7 @@ int a, b;
 
 PImage displayInstaImage1;
 
-String apiKey = "5347856.b95783e.c4fec9852d5f4bea97cdfb59288fc096";
+String apiKey = "xxxxxxxxx"; // insert valid API key
 String tagSearch;
 
 void setup() {
