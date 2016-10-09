@@ -1,4 +1,4 @@
-// Based on a sketch by forum.processing.org forum user newmiracle
+// Based on a sketch by forum.processing.org user newmiracle
 
 String apiKey = "xxxxxx"; // insert valid API key
 String tagSearch;
